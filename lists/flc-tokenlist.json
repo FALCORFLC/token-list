@@ -1,1 +1,21 @@
+"0x185643a3a9c36FA12DA777f6E86a25f509Fe512C{
+  "name": "FLC Token List",
+  "timestamp": "2026-05-16T00:00:00+00:00",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 56,
+      "address": "0x185643a3a9c36FA12DA777f6E86a25f509Fe512C",
+      "symbol": "FLC",
+      "name": "Falcor Token",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/FALCORFLC/assets/master/assets/flc.png"
+    }
+  ]
+}
+"
 
